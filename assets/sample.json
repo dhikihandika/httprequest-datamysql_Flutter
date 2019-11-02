@@ -1,0 +1,27 @@
+{
+    "name":"hans",
+    "age":20,
+    "email":"dhikihans@gmail.com",
+    "hobby":["football", "swiming", "coding"],
+    "github":{
+        "username":"dhikihandika",
+        "repository":4
+    },
+    "articles": [
+        {
+          "id": 1,
+          "title": "Flutter: Introduction",
+          "subtitle": "Beautiful native apps with Dart language"
+        },
+        {
+          "id": 2,
+          "title": "Flutter: LinearLayout",
+          "subtitle": "How to design LinearLayout in Flutter"
+        },
+        {
+          "id": 3,
+          "title": "Flutter: RelativeLayout",
+          "subtitle": "How to design RelativeLayout in Flutter"
+        }
+      ]
+}
